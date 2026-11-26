@@ -90,3 +90,6 @@ Desktop.ini
 *.log
 *.tmp
 temp/
+
+# Temporary Figma reference code
+/figma-export/
